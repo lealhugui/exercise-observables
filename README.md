@@ -1,4 +1,9 @@
 # ExerciseObservables
+Simples exercicio baseado no post a seguir: 
+https://symbiotics.co.za/using-observables-in-angular-4-to-get-data-from-an-api-service/
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
